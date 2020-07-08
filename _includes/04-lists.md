@@ -1,4 +1,4 @@
-- **Lasagne**
-- _**Pizza**_
-- *__Carbonara__*
-- _Tacos_
+- Lasagne
+- Pizza
+- Carbonara
+- Tacos
